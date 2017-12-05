@@ -1,6 +1,8 @@
 title: Docker构建SpringBoot镜像
 date: 2017-12-05 21:10:55
-tags: docker
+tags: 
+    - Docker
+    - SpringBoot
 ---
 **一、使用STS构建springBoot项目**
 项目结构

@@ -1,6 +1,7 @@
 title: Docker常用命令总结
 date: 2017-12-05 21:28:48
-tags:
+tags: 
+    - Docker
 ---
 
 **1.使用Dockerfile构建Docker镜像**
